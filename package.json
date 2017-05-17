@@ -6,6 +6,13 @@
   "dependencies": {
     "extend": "3.0.1"
   },
+  "devDependencies": {
+    "jsonlint": "1.6.2",
+    "ajv-cli": "2.1.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mdn/browser-compat-data.git"
